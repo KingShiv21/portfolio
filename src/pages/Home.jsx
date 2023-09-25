@@ -15,7 +15,7 @@ const Home = () => {
           <h3 className=" text-xl">Full stack web developer and coder</h3>
           <h1 className=" text-2xl  text-yellow-500 font-bold pt-5" >About me  </h1>
 
-          <ul className=" text-left  sm:text-center text-sm sm:px-20:px-3:pt-1 ">
+          <ul className=" px-1 text-left  sm:text-center text-sm sm:px-20:px-3:pt-1 ">
             <li className='py-1'>{<ArrowForwardIcon />}Hello, I am Shivraj Singh Rathore from Jaipur,India.</li>
             <li  className='py-1'>{<ArrowForwardIcon/>}I am currently completing my final year of BCA in S.S. Jain Subodh College ,Jaipur</li>
             <li className='py-1'>{<ArrowForwardIcon/>}I am very passionate in computer science field and love to code to generate amazing outputs on our screens</li>

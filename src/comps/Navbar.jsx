@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <div>
             <div className=" bg-cyan-900">
-                <div className=" py-8">
+                <div className=" pl-3 py-5 sm:py-8">
                     <div className=" sm:invisible visible sm:h-0">
                         <button className=" border-2 border-yellow-400 rounded-md w-20 bg-black text-white px-auto" onClick={() => { setNavbar(!oldNavbar) }}>
                             < ViewStreamIcon />
