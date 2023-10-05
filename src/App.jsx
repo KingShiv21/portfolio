@@ -9,7 +9,7 @@ import Footer from "./comps/Footer"
 function App() {
 
   return (
-    <div >
+    <div className=" overflow-hidden" >
       <Router>
         <Navbar/>
         <Routes>
